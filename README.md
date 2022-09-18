@@ -5,9 +5,10 @@
 #### 😄アカウント
 
 - Github: github.com/doloopwhile
-- Twitter: https://twitter.com/home
-- Qiita: https://qiita.com/tonluqclml
-- Blog: https://doloopwhile.hatenablog.com/
+- Twitter: twitter.com/doloopwhile
+- Qiita: qiita.com/tonluqclml
+- Blog: doloopwhile.hatenablog.com
+- LinkedIn: www.linkedin.com/in/doloopwhile
 
 #### 💬書いたもの
 
@@ -20,22 +21,12 @@
 
 職歴:
 
-- [株式会社HDE（現: HENNGE株式会社）](https://hennge.com/jp/) (2012)
-- [エムスリー株式会社](https://corporate.m3.com/service/) (2015)
-- [株式会社スリーシェイク](https://3-shake.com/) (2021)
+- [株式会社HDE（現: HENNGE株式会社）](https://hennge.com/jp/) (2012): セキュリティ製品の開発。
+- [エムスリー株式会社](https://corporate.m3.com/service/) (2015): 基盤開発チーム。いろいろな言語で、バックエンドもフロントエンドもインフラもバッチも全部。
+- [株式会社スリーシェイク](https://3-shake.com/) (2021): k8s環境の構築運用。
 - 無職 (2022)
 
-資格:
-
-- 2022/08: AWS Certified Solutions Architect - Professional 
-
-
-サーバーサイドがメインで、フロントエンド（React.js）やインフラ（AWS、GCP）の経験もあります。
-プログラミング言語は色々（Bash、PHP、Go、Ruby、Python、Scalaなどなど）。
-
-個別サービスよりも「基盤開発」とか「遊撃隊」みたいなチームの経験が多いのですが、何故でしょう？
-上司たちはそういうチームが向いた性格だと考えたのでしょうか？
-
+#### 📫 How to reach me: ...
 
 
 
