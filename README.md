@@ -28,8 +28,6 @@
 
 doloopwhile@gmail.com
 
-会社名を伏せた求人はお断り
-
 <!--
 **doloopwhile/doloopwhile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
